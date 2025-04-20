@@ -45,10 +45,4 @@ Ml_Lab/
 
 - Basic understanding of Python
 - Jupyter Notebook installed
-- Install required python libraries for ml algorithm implementation
-
-## ✨ Goals
-
-- Understand and apply ML algorithms from scratch and using libraries
-- Visualize and interpret model performance
-- Build a foundation for advanced ML and AI applications
+- Required Python libraries for implementing ML algorithms
