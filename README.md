@@ -30,7 +30,7 @@ Ml_Lab/
 
    ```bash
    git clone https://github.com/TharunKorivi/machine_learning_lab.git
-   cd Ml_Lab
+   cd machine_learning_lab
    ```
 
 2. Launch Jupyter Notebook:
