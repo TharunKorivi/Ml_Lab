@@ -2,10 +2,21 @@
 
 A collection of hands-on experiments and assignments designed to reinforce core concepts in machine learning. This repo covers the full ML pipeline—from data preprocessing to model training and evaluation—structured week-wise for an academic lab setting.
 
+---
+
+**👤 Student Details**
+
+- **Name**: Korivi Tharun  
+- **ID**: B201479  
+- **Class**: CSE C1  
+
+---
+
 ## 📁 Folder Structure
 
 ```
-Ml_Lab/
+
+Ml\_Lab/
 ├── week1        # Data Wrangling
 ├── week2        # Data Preprocessing and visualization
 ├── week3        # Simple Linear Regression
@@ -15,7 +26,8 @@ Ml_Lab/
 ├── week7        # Naive Bayes
 ├── week8        # Support Vector Machines
 ├── week9        # K-Means Clustering
-```
+
+````
 
 ## 🔧 Technologies Used
 
@@ -31,7 +43,7 @@ Ml_Lab/
    ```bash
    git clone https://github.com/TharunKorivi/machine_learning_lab.git
    cd machine_learning_lab
-   ```
+````
 
 2. Launch Jupyter Notebook:
 
@@ -43,6 +55,6 @@ Ml_Lab/
 
 ## 📚 Prerequisites
 
-- Basic understanding of Python
-- Jupyter Notebook installed
-- Required Python libraries for implementing ML algorithms
+* Basic understanding of Python
+* Jupyter Notebook installed
+* Required Python libraries for implementing ML algorithms
