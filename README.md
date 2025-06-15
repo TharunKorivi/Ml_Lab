@@ -4,7 +4,7 @@ A collection of hands-on experiments and assignments designed to reinforce core 
 
 ---
 
->  **Student Information (Required for Lab Submission)**
+> ⚠️ **Student Information (Required for Lab Submission)**
 
 > - 👨‍🎓 **Name**: **Korivi Tharun**  
 > - 🆔 **ID**: **B201479**  
@@ -15,8 +15,7 @@ A collection of hands-on experiments and assignments designed to reinforce core 
 ## 📁 Folder Structure
 
 ```
-
-Ml\_Lab/
+machine_learning_lab/
 ├── week1        # Data Wrangling
 ├── week2        # Data Preprocessing and visualization
 ├── week3        # Simple Linear Regression
@@ -26,19 +25,14 @@ Ml\_Lab/
 ├── week7        # Naive Bayes
 ├── week8        # Support Vector Machines
 ├── week9        # K-Means Clustering
-
-````
-
----
+```
 
 ## 🔧 Technologies Used
 
-- Python  
-- Jupyter Notebook  
-- NumPy, Pandas, Matplotlib  
-- Scikit-learn  
-
----
+- Python
+- Jupyter Notebook
+- NumPy, Pandas, Matplotlib
+- Scikit-learn
 
 ## ✅ How to Run
 
@@ -47,7 +41,7 @@ Ml\_Lab/
    ```bash
    git clone https://github.com/TharunKorivi/machine_learning_lab.git
    cd machine_learning_lab
-````
+   ```
 
 2. Launch Jupyter Notebook:
 
@@ -57,10 +51,14 @@ Ml\_Lab/
 
 3. Explore each week's lab in its respective folder.
 
----
-
 ## 📚 Prerequisites
 
-* Basic understanding of Python
-* Jupyter Notebook installed
-* Required Python libraries for implementing ML algorithms
+- Basic understanding of Python
+- Jupyter Notebook installed
+- Install required python libraries for ml algorithm implementation
+
+## ✨ Goals
+
+- Understand and apply ML algorithms from scratch and using libraries
+- Visualize and interpret model performance
+- Build a foundation for advanced ML and AI applications
