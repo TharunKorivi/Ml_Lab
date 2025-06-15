@@ -4,11 +4,11 @@ A collection of hands-on experiments and assignments designed to reinforce core 
 
 ---
 
-**👤 Student Details**
+>  **Student Information (Required for Lab Submission)**
 
-- **Name**: Korivi Tharun  
-- **ID**: B201479  
-- **Class**: CSE C1  
+> - 👨‍🎓 **Name**: **Korivi Tharun**  
+> - 🆔 **ID**: **B201479**  
+> - 🏫 **Class**: **CSE C1**
 
 ---
 
@@ -29,12 +29,16 @@ Ml\_Lab/
 
 ````
 
+---
+
 ## 🔧 Technologies Used
 
-- Python
-- Jupyter Notebook
-- NumPy, Pandas, Matplotlib
-- Scikit-learn
+- Python  
+- Jupyter Notebook  
+- NumPy, Pandas, Matplotlib  
+- Scikit-learn  
+
+---
 
 ## ✅ How to Run
 
@@ -52,6 +56,8 @@ Ml\_Lab/
    ```
 
 3. Explore each week's lab in its respective folder.
+
+---
 
 ## 📚 Prerequisites
 
